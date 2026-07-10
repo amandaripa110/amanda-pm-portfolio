@@ -16,16 +16,16 @@ My strategy was to start small, prove value early, and build the foundations for
 
 The strategy centered on a few core principles:
 
-Start with a small, well‑defined slice of the problem. Validate the new architecture and orchestration model before expanding to the broader ecosystem.
+* Start with a small, well‑defined slice of the problem. Validate the new architecture and orchestration model before expanding to the broader ecosystem.
 
-Establish a scalable architecture early. Introduce clearer service boundaries and a more flexible content storage model so future capabilities could be added without constant rework.
+* Establish a scalable architecture early. Introduce clearer service boundaries and a more flexible content storage model so future capabilities could be added without constant rework.
 
-Shift the organization’s mental model around the SDLC. AI‑related work doesn’t follow a traditional “requirements → build → test → release” pattern. It requires evaluation loops, iterative tuning, and a different approach to quality. Helping teams understand this was essential to making the modernization sustainable.
+* Shift the organization’s mental model around the SDLC. AI‑related work doesn’t follow a traditional “requirements → build → test → release” pattern. It requires evaluation loops, iterative tuning, and a different approach to quality. Helping teams understand this was essential to making the modernization sustainable.
 
-Use agentic orchestration to simplify complexity. Replace hard‑coded logic with a more dynamic orchestration layer that coordinates retrieval, processing, and ranking in a predictable, maintainable way.
+* Use agentic orchestration to simplify complexity. Replace hard‑coded logic with a more dynamic orchestration layer that coordinates retrieval, processing, and ranking in a predictable, maintainable way.
 
-Lead with empathy. Modernization can feel disruptive, especially for teams deeply invested in the legacy system. I focused on listening, explaining the “why,” and making sure the new model felt accessible rather than threatening.
+* Lead with empathy. Modernization can feel disruptive, especially for teams deeply invested in the legacy system. I focused on listening, explaining the “why,” and making sure the new model felt accessible rather than threatening.
 
-Let modern capabilities guide the roadmap. As the architecture matured, use improved query handling, relevance workflows, and content processing to determine what we built next — not the constraints of the old system.
+* Let modern capabilities guide the roadmap. As the architecture matured, use improved query handling, relevance workflows, and content processing to determine what we built next — not the constraints of the old system.
 
-Build toward a platform‑level solution. Create a shared foundation multiple teams could adopt, reducing duplication and improving consistency across the organizatio
+* Build toward a platform‑level solution. Create a shared foundation multiple teams could adopt, reducing duplication and improving consistency across the organizatio
